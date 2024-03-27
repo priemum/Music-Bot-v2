@@ -10,7 +10,7 @@ module.exports = {
       selfDeaf: true,
       selfMute: false,
     })
-
+         
     message.reply("Joined")
 
   }
